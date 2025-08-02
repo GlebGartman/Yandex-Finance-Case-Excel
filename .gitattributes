@@ -1,0 +1,3 @@
+*.csv linguist-language=CSV
+*.md linguist-documentation
+*.xlsx linguist-detectable=false
