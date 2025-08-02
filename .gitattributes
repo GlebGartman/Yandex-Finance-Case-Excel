@@ -1,0 +1,6 @@
+*.xlsx linguist-language=Excel
+*.xls linguist-language=Excel
+*.md linguist-documentation
+*.json linguist-detectable=false
+*.sql linguist-detectable=false
+*.py linguist-detectable=false
